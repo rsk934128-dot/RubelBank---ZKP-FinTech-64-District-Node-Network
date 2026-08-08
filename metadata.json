@@ -1,0 +1,6 @@
+{
+  "name": "RubelBank - ZKP FinTech & 64-District Node Network",
+  "description": "Next-Gen ZKP FinTech & 64-District Node Network in Bangladesh with ZK-SNARKs Vault, Biometric Security, and Interactive Node Corridor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
